@@ -10,7 +10,7 @@ const hoursEl = document.querySelector("span[data-hours]");
 const minutesEl = document.querySelector("span[data-minutes]");
 const secondsEl = document.querySelector("span[data-seconds]");
 
-let userDate  = null;
+let userDate  = null; 
 let isActive = false;
 let timerId = null;
 
